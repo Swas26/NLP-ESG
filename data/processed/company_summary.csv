@@ -1,13 +1,13 @@
 company,avg_sentiment,num_chunks
-UniQlo,0.7089,17
+UniQlo,0.7093,16
 Gucci,0.6831,14
 NBN,0.5526,26
 Muji,0.5447,50
-LVMH,0.5312,83
-Coles Group,0.2799,79
-Qantas,0.2305,96
-ANZ,0.1179,41
+LVMH,0.526,82
+Coles Group,0.2721,80
+Qantas,0.2228,95
+ANZ,0.0925,42
 AGL,0.0561,175
 Santos,-0.0584,215
-Woolworths Australia,-0.0719,48
+Woolworths Australia,-0.081,48
 CBA,-0.1385,9
