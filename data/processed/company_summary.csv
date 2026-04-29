@@ -1,13 +1,13 @@
-company,avg_sentiment,num_chunks
-UniQlo,0.7093,16
-Gucci,0.6831,14
-NBN,0.5526,26
-Muji,0.5447,50
-LVMH,0.526,82
-Coles Group,0.2721,80
-Qantas,0.2228,95
-ANZ,0.0925,42
-AGL,0.0561,175
-Santos,-0.0584,215
-Woolworths Australia,-0.081,48
-CBA,-0.1385,9
+company,avg_sentiment,total_chunks,avg_specificity,avg_cheap_talk_risk,report_sentiment,news_sentiment,greenwashing_index,report_chunks,news_chunks,data_quality
+AGL,0.0,234,0.1799,-0.1799,0.0,0.0,0.0,231,3.0,insufficient_news_data
+CBA,0.0,252,0.2958,-0.2958,0.0,0.0,0.0,248,4.0,insufficient_news_data
+Coles Group,0.0,124,0.1908,-0.1908,0.0,0.0,0.0,119,5.0,ok
+Gucci,0.0,17,0.6823,-0.6823,0.0,0.0,0.0,16,1.0,insufficient_news_data
+LVMH,0.0,140,0.4483,-0.4483,0.0,0.0,0.0,138,2.0,insufficient_news_data
+NBN,0.0,36,0.2971,-0.2971,0.0,0.0,0.0,34,2.0,insufficient_news_data
+Qantas,0.0,164,0.1562,-0.1562,0.0,0.0,0.0,159,5.0,ok
+Santos,0.0,345,0.3157,-0.3157,0.0,0.0,0.0,330,15.0,ok
+UniQlo,0.0,24,0.3131,-0.3131,0.0,0.0,0.0,20,4.0,insufficient_news_data
+Woolworths Australia,0.0,63,0.1299,-0.1299,0.0,0.0,0.0,52,11.0,ok
+ANZ,0.0,68,-0.0093,0.0093,0.0,,,68,,ok
+Muji,0.0,66,0.0771,-0.0771,0.0,,,66,,ok
