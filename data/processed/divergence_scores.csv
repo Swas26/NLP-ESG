@@ -1,13 +1,13 @@
-company,report_sentiment,report_std,report_chunks,news_sentiment,news_std,news_chunks,greenwashing_index,data_quality
-Coles Group,0.3432,0.4488,121,-0.385,0.7523,5.0,0.7282,ok
-NBN,0.413,0.516,37,0.009,0.9569,2.0,0.404,insufficient_news_data
-UniQlo,0.7157,0.3617,30,0.3166,0.5472,4.0,0.3991,insufficient_news_data
-LVMH,0.5017,0.4964,142,0.208,0.6833,2.0,0.2937,insufficient_news_data
-Woolworths Australia,-0.0821,0.6824,67,-0.3376,0.6561,11.0,0.2555,ok
-Gucci,0.8019,0.314,17,0.6621,,1.0,0.1398,insufficient_news_data
-Qantas,0.2265,0.6492,139,0.183,0.7652,5.0,0.0435,ok
-Santos,-0.1049,0.5713,370,-0.0354,0.6069,15.0,-0.0695,ok
-CBA,-0.2141,0.4909,302,-0.0119,0.8994,4.0,-0.2022,insufficient_news_data
-AGL,0.0034,0.5947,290,0.8133,0.0951,3.0,-0.8099,insufficient_news_data
-ANZ,0.064,0.5563,74,,,,,ok
-Muji,0.4834,0.5343,87,,,,,ok
+company,report_sentiment,report_std,report_chunks,avg_cheap_talk_risk,news_sentiment,news_std,news_chunks,adjusted_report_sentiment,greenwashing_index,data_quality
+Coles Group,0.3432,0.4488,121,0.1527,-0.385,0.7523,5.0,0.1905,0.5755,ok
+Woolworths Australia,-0.0821,0.6824,67,-0.2724,-0.3376,0.6561,11.0,0.1903,0.5279,ok
+Santos,-0.1049,0.5713,370,-0.4136,-0.0354,0.6069,15.0,0.3087,0.3441,ok
+NBN,0.413,0.516,37,0.113,0.009,0.9569,2.0,0.3,0.291,insufficient_news_data
+CBA,-0.2141,0.4909,302,-0.4515,-0.0119,0.8994,4.0,0.2374,0.2493,insufficient_news_data
+LVMH,0.5017,0.4964,142,0.0933,0.208,0.6833,2.0,0.4084,0.2004,insufficient_news_data
+Qantas,0.2265,0.6492,139,-0.0063,0.183,0.7652,5.0,0.2328,0.0498,ok
+Gucci,0.8019,0.314,17,0.1048,0.6621,,1.0,0.6971,0.035,insufficient_news_data
+UniQlo,0.7157,0.3617,30,0.5403,0.3166,0.5472,4.0,0.1754,-0.1412,insufficient_news_data
+AGL,0.0034,0.5947,290,-0.1502,0.8133,0.0951,3.0,0.1536,-0.6597,insufficient_news_data
+ANZ,0.064,0.5563,74,0.1132,,,,-0.0492,,ok
+Muji,0.4834,0.5343,87,0.4077,,,,0.0757,,ok
